@@ -1,0 +1,38 @@
+body {
+	background-color: #ebb5e3;
+	font-size: 35px;
+	font-family: Sans-serif;
+	color: black;
+}
+#container{
+	background-color: #d1a362;
+	width:95%;
+	background:pink;
+	margin:20px auto;
+	overflow:auto;
+	padding:25px;
+}
+h1 {
+	background-color: #adf797;
+	
+	margin: auto;  
+    padding: 15px;
+    text-align: center;
+}
+h2 {
+	font-size: 25px;
+	font-family: Sans-serif;
+	margin: 15px;
+	padding: 10px;
+}
+
+p{
+	font-size: 20px;
+	font-family: Sans-serif;
+	margin: 20px;
+	padding: 15px;
+	
+}
+footer {
+	text-align: center;
+}	
